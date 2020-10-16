@@ -1,0 +1,8 @@
+{
+  "maintenance": "" ,
+  "newRelease":[{
+      "link":"https://github.com/argoproj/argo-cd",
+      "version":"ArgocdVersion:1.2.3.4.5"
+  }],
+  "announcements":"Registerations are currently open for hacktoberfest"
+}
